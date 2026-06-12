@@ -67,8 +67,3 @@ async function runDemo() {
 
 runDemo();
 
-// ── CTA placeholder notice ────────────────────────────────────────────────
-document.getElementById("ctaBtn").addEventListener("click", (e) => {
-  e.preventDefault();
-  alert("Chrome Web Store link coming soon!");
-});
